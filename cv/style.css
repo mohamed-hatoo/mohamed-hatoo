@@ -1,0 +1,36 @@
+h1 {
+    color:white;
+    text-align: center;
+}
+h2{
+    color:blue;
+    text-align: center;
+}
+li{color:whitesmoke;
+text-align: start
+;}
+body {
+    background-color:yellow;
+    
+}
+li{ color: crimson;   
+
+}
+p{color: black;
+
+
+}
+em{color: blueviolet;}
+br{color: black;}
+.chicken{color: red;}
+.experience {
+    background-color: whitesmoke;
+    margin: 20px;
+}
+.container {
+    display: flex;
+justify-content: center;
+
+/* justify-content: space-between; */
+
+}
